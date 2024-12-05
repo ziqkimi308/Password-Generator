@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### Password Generator
+# Password Generator
 
 - The Password Generator is a Python application that generates a secure, random password based on user input. The program allows users to specify the number of letters, numbers, and symbols they want in their password. It then randomly selects characters from predefined lists and shuffles them to create a strong, unpredictable password.
 
